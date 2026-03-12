@@ -1,4 +1,4 @@
-# Spider Guard
+# Openkaze
 
 don't use, it is an experimental firewall
 
