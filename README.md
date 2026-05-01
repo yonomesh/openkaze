@@ -1,6 +1,6 @@
 # Openkaze
 
-don't use, it is an experimental firewall
+**Don't use, it is an experimental project**
 
 A Flexible Module Framework Inspired by Caddy's Plugin System
 
